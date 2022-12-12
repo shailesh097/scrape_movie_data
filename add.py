@@ -1,8 +1,4 @@
-def add(a, b):
-	print(a + b)
+arr = [1, 2, 3, 4, 5]
 
-def main():
-	add(1, 3)
-
-if __name__ == "__main__":
-	main()
+for _ in arr:
+	print("Hello!")
