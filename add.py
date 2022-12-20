@@ -1,4 +1,6 @@
-arr = [1, 2, 3, 4, 5]
+def add(a, b):
+	sum = a + b
+	return sum
 
-for _ in arr:
-	print("Hello!")
+
+
